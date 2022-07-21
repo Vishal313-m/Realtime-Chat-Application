@@ -21,18 +21,13 @@
 <li>If someone leaves the chat, let others know.</li>
 </ul>
 
-# Process to run the app
-<ol>
-  <li> run <b>nodemon nodeserver/index.js</b>
-  <li> Install the extension 'live server' for Vs Code. Extension Id - <b>ritwickdey.liveserver </b>
-  <li> After the extension gets installed navigate to index.html and open it to edit.
-  <li> Right click anywhere in the file <b>index.html</b> and from the menu that appears select <b> Open with Live server </b>
-  <li> A instance of the application will appear in the browser. 
-  <li> Copy the url from the address bar and open another instance in another tab or in incognito or on another browser.
-</ol>
 
-# User 1: Mayank Chaudhary
-![Screenshot (18)](https://user-images.githubusercontent.com/49724597/87877500-56988880-c9fc-11ea-9e09-306a95deb2cb.png)
+
+# User 1: Vishal Mahto
+![Screenshot (18)](![image](https://user-images.githubusercontent.com/85690685/180246934-fd243f9c-742a-48c0-af9f-05a21cdb046b.png)
+)
+)
 
 # User 2: Harry
-![Screenshot (19)](https://user-images.githubusercontent.com/49724597/87877502-57c9b580-c9fc-11ea-9ad4-fbe7aac19a47.png)
+![Screenshot (19)](![image](https://user-images.githubusercontent.com/85690685/180247011-22249285-556e-4468-a747-8e0ec7c194fd.png)
+)
