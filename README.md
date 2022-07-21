@@ -24,9 +24,8 @@
 
 
 # User 1: Vishal Mahto
-![Screenshot (18)](![image](https://user-images.githubusercontent.com/85690685/180246934-fd243f9c-742a-48c0-af9f-05a21cdb046b.png)
-)
-)
+![image](https://user-images.githubusercontent.com/85690685/180249732-63347bd5-7642-4803-9e2a-1832698ef8b8.png)
+
 
 # User 2: Harry
 ![Screenshot (19)](![image](https://user-images.githubusercontent.com/85690685/180247011-22249285-556e-4468-a747-8e0ec7c194fd.png)
